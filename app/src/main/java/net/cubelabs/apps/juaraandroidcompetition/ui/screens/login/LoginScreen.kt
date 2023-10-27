@@ -60,7 +60,7 @@ fun LoginScreenContent(modifier: Modifier = Modifier) {
 
         Button(
             onClick = {},
-            contentPadding = PaddingValues(horizontal = 40.dp)
+            contentPadding = PaddingValues(horizontal = 100.dp)
         ){
             Text(stringResource(R.string.login))
         }
@@ -70,7 +70,7 @@ fun LoginScreenContent(modifier: Modifier = Modifier) {
         )
         OutlinedButton(
             onClick = {},
-            contentPadding = PaddingValues(horizontal = 40.dp)
+            contentPadding = PaddingValues(horizontal = 100.dp)
         ) {
             Text(stringResource(R.string.cancel))
         }
