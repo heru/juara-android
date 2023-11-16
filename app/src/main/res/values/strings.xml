@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Juara Android Competition</string>
+    <string name="login">Login</string>
+    <string name="cancel">Batal</string>
 </resources>
